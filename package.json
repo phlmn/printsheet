@@ -1,0 +1,14 @@
+{
+  "name": "printsheet",
+  "version": "0.1.0",
+  "description": "Create printsheets.",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pdfjs": "^2.0.0-alpha.3",
+    "yargs": "^10.0.3"
+  },
+  "bin": {
+    "printsheet": "bin/printsheet.js"
+  }
+}
