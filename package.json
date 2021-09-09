@@ -5,7 +5,7 @@
   "author": "Philipp Mandler",
   "license": "MIT",
   "dependencies": {
-    "pdfjs": "^2.0.0-alpha.3",
+    "pdfjs": "2.0.0-alpha.3",
     "yargs": "17.1.1"
   },
   "bin": {
